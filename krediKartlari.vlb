@@ -1,0 +1,13 @@
+﻿[ADOQuery1]
+Coordinates=10,10,84,124
+
+[DataSource1]
+Coordinates=0,0,89,36
+
+[DBGrid1]
+Coordinates=104,10,64,36
+Visible=True
+
+[]
+Coordinates=211,1,114,36
+
